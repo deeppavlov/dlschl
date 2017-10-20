@@ -12,7 +12,7 @@
 
 Также будет доступно онлайн обучение с записями семинаров и проверкой заданий.
 
-[Ссылка на YouTube-канал с записями занятий](https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ)
+[Ссылка на YouTube-канал с записями занятий](https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ "Ссылка на YouTube-канал с записями занятий")
 
 ## На кого расчитаны занятия?
 
