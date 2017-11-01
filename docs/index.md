@@ -8,6 +8,7 @@
         <div id="list">
           {{ post.excerpt }}
         </div>
+        <br/>
       </li>
     {% endif %}
   {% endfor %}
