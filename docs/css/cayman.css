@@ -231,8 +231,8 @@ a:hover { text-decoration: underline; }
 
 .footer-logo { display: inline-block; margin-bottom: 1rem;  }
 .footer-logo + .footer-logo { margin-left: 1rem; }
-@media screen and (min-width: 75em) { .footer-logo { padding: 0.75rem 1rem; } }
-@media screen and (max-width: 75em) { .footer-logo { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
+@media screen and (min-width: 55em) { .footer-logo { padding: 0.75rem 1rem; } }
+@media screen and (max-width: 55em) { .footer-logo { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
   .footer-logo + .footer-logo { margin-top: 1rem; margin-left: 0; } }
 
 .footer-float { text-align: center;}
