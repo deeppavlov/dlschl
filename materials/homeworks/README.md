@@ -11,4 +11,5 @@
 |hw06|Обучение и подбор гиперпараметров. Свёрточные сети|27.12.2017 16:00 UTC+3|
 |hw07_1|Простейшие классификаторы на сверточных сетях|30.12.2017 23:59 UTC+3|
 |hw07_2|Transfer Learning|30.12.2017 23:59 UTC+3|
-|hw08|FastText Word2Vec|18.03.2018 23:59 UTC+3|
+|hw08|FastText Word2Vec|18.03.2018 23:59 UTC+3|  
+|hw09|Intro to NLP, char-RNN Language Modeling |30.04.2018 23:59 UTC+3|  
