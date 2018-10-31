@@ -1,6 +1,8 @@
 # Школа Глубокого Обучения (DLSchool)
 ### Лаборатория нейронных систем и глубокого обучения МФТИ
 
+# Новый репозиторий: https://github.com/DLSchool/dlschool
+
 ### [Официальный сайт Школы](https://deepmipt.github.io/dlschl/)
 
 ### [YouTube-канал Школы](https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ)
